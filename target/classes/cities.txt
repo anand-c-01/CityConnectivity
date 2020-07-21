@@ -1,0 +1,13 @@
+Newark,Orange
+South Plainfield, Edison
+Edison,metuchen
+woodbridge,carteret
+Edison,newark
+South Amboy,carteret
+Edison,South Amboy
+South Brunswick,Princeton
+Princeton,Robbinsville
+Boston, New York
+Philadelphia, Newark
+Newark, Boston
+Trenton, Albany
